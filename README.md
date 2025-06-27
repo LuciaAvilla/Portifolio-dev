@@ -48,7 +48,7 @@ Esse projeto me ajudou a perceber como estou começando a entender **de verdade*
 
 ## 📷 Preview
 
->(./assets/img/preview.png)]
+![print da página](./assets/img/preview.png)
 
 ---
 
@@ -68,8 +68,16 @@ Esse projeto me ajudou a perceber como estou começando a entender **de verdade*
 
 2. Abra o arquivo index.html no navegador.
 
+---
+
 ## 🤝 Créditos
 
 Desafio por **Rocketseat.**
 
 Implementado por mim com dedicação e vontade de aprender — um passo de cada vez. 💜
+
+---
+
+Feito com atenção, esforço e curiosidade.
+✨ “Não precisa ser perfeito. Só precisa ser feito.” 🚀
+
