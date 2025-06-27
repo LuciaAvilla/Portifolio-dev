@@ -1,0 +1,116 @@
+/*estilo da fonte*/
+
+.bold {
+    font-weight: var(--font-weight-bold);
+}
+
+.regular {
+    font-weight: var(--font-weight-regular);
+}
+
+.thin {
+    font-weight: var(--font-weight-thin);
+}
+
+.medium {
+    font-weight: var(--font-weight-medium);
+}
+
+/*Tamanho da fonte*/
+
+.fontSize-large {
+    font-size: var(--font-size-lg);
+}
+
+.fontSize-md {
+    font-size: var(--font-size-md);
+}
+
+.fontSize-subtitle {
+    font-size: var(--font-size-subtitle);
+}
+
+.fontSize-sml {
+    font-size: var(--font-size-sm);
+}
+
+.fontSize-xsml {
+    font-size: var(--font-size-xsm);
+}
+
+/*Peso da fonte*/
+
+.lineHeight-lg {
+    line-height: var(--line-height-lg);
+}
+
+.lineHeight-md {
+    line-height: var(--line-height-md);
+}
+
+/*Fontes*/
+
+.principalFont {
+    font-family: var(--font-family-principal);
+}
+
+.secundaryFont {
+    font-family: var(--font-family-secundary);
+}
+
+.subtitle {
+    font-family: var(--font-family-subtitle);
+}
+
+/*Cores*/
+
+.color-red {
+    color: var(--main-color-red);
+}
+
+.color-purple {
+    color: var(--main-color-purple);
+}
+
+.color-blue {
+    color: var(--main-color-blue);
+}
+
+.color-green {
+    color: var(--main-color-green);
+}
+
+.color-yellow {
+    color: var(--main-color-yellow);
+}
+
+.colorGray-100 {
+    color: var(--base-gray-100);
+}
+
+.colorGray-200 {
+    color: var(--base-gray-200);
+}
+
+.colorGray-300 {
+    color: var(--base-gray-300);
+}
+
+.colorGray-400 {
+    color: var(--base-gray-400);
+}
+
+.colorGray-500 {
+    color: var(--base-gray-500);
+}
+
+.colorGray-600 {
+    color: var(--base-gray-600);
+}
+
+/*Tamanhos da imagem dos cards*/
+.cardImg {
+    width: 306px;
+    height: 156px;
+    border-radius: 8px;
+}

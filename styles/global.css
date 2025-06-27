@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+
+:root {
+    --base-gray-100: #E2E4E9;
+    --base-gray-200: #C0C4CE;
+    --base-gray-300: #878EA1;
+    --base-gray-400: #292C34;
+    --base-gray-500: #16181D;
+    --base-gray-600: #0D0E11;
+    --main-color-red: #E3646E;
+    --main-color-purple: #BB72E9;
+    --main-color-blue: #3996DB;
+    --main-color-green: #82BC4F;
+    --main-color-yellow: #EABD5F;
+    --font-family-principal: "Asap", sans-serif;
+    --font-family-secundary: "Maven Pro", sans-serif;
+    --font-family-subtitle: "Inconsolata", monospace;
+    --font-weight-bold: 800;
+    --font-weight-medium: 500;
+    --font-weight-regular: 600;
+    --font-weight-thin: 300;
+    --font-size-lg: 56px;
+    --font-size-md: 24px;
+    --font-size-subtitle: 20px;
+    --font-size-sm: 16px;
+    --font-size-xsm: 14px;
+    --line-height-lg: 120%;
+    --line-height-md: 140%;
+}

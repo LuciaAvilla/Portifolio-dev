@@ -1,0 +1,39 @@
+.service {
+    background-color: var(--base-gray-600);
+    background-size: cover;
+    padding-top: 88px;
+    padding-bottom: 120px;
+}
+
+.skills {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    max-width: 888px;
+    gap: 24px;
+    align-items: center;
+}
+
+.skill-card {
+    width: 280px;
+    height: 155px;
+    border: 2px solid var(--base-gray-400);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: left;
+
+    img {
+        width: 48px;
+        height: 48px;
+        aspect-ratio: 1/1;
+        margin-bottom: 20px;
+    }
+}
+
+.skill-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
