@@ -58,8 +58,8 @@ Esse projeto me ajudou a perceber como estou começando a entender **de verdade*
 
 - HTML5
 - CSS3 (com Grid, Flexbox e variáveis)
-- Google Fonts
 
+  
 ---
 
 ## 📥 Como visualizar
