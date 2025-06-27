@@ -48,7 +48,7 @@ Esse projeto me ajudou a perceber como estou começando a entender **de verdade*
 
 ## 📷 Preview
 
-![print da página](./assets/img/preview.png)
+![print da página](image.png)
 
 
 
